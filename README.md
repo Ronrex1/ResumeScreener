@@ -25,7 +25,3 @@ Install dependencies using:
 ```bash
 pip install pandas scikit-learn
 
-Issues
-This is a basic template that you can customize based on your specific project details. Make sure to replace placeholders like `<Your Project Name>` and `<Your Description>` with your actual project name and description.
-
-Additionally, you may want to include information about the model's performance, any limitations, and future improvements. Adjust the sections as needed to provide the most relevant information for users and contributors.
